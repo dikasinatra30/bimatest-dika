@@ -1,0 +1,5 @@
+1. setting env db with postgres
+2. run composer install
+3. run npm install && npm run dev
+4. run php artisan migrate
+5. run php artisan serve
